@@ -7,7 +7,6 @@ Simply download both the wordle.py file, as well as the words.dat file.  Make su
 # Prerequisites
 I used Python 3.10.4 for this project, I've noticed sometimes when I write things at my computer lab at school that the older Anaconda models and python to an extension give weird errors from 3.8 to 3.9.  Just to be safe use 3.10.4.
 
-# Give examples 
 To run the game, make sure you have the words.dat file under the same directory as wordle.py.  Open IDLE in the shell and then run the module, it will automatically start the game.
 
 # Running the tests
